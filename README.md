@@ -1,6 +1,8 @@
 # bottom_nav
 
-<img width="300" src="images/bottom.png">
+The bottom_nav has several screens where one can navigate
+
+<img width="400" src="images/bottom.png">
 
 
 
